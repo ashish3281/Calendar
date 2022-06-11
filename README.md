@@ -11,3 +11,8 @@ int get_1st_weekday(int year){
  return d;
 }
 </pre>
+<br>
+<p>using this formula to find the year is a leap year or not</p>
+<pre>
+ if((year%4==0 && year%100!=0)||(year%400==0))
+ </pre>
