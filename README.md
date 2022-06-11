@@ -16,3 +16,5 @@ int get_1st_weekday(int year){
 <pre>
  if((year%4==0 && year%100!=0)||(year%400==0))
  </pre>
+<br>
+<h2>output</h2>
