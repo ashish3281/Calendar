@@ -18,3 +18,6 @@ int get_1st_weekday(int year){
  </pre>
 <br>
 <h2>output</h2>
+
+![Screenshot (256)](https://user-images.githubusercontent.com/92047366/173171549-da5e5fd3-54e6-448b-bd31-1a9958408c9d.png)
+![Screenshot (257)](https://user-images.githubusercontent.com/92047366/173171538-5b0ec982-da02-4faa-b6d6-d5259d4893c7.png)
